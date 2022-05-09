@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        div+h1{
+            color: aqua;
+        }
+        div+h1+h1{
+            color: aqua;
+        }
+        div>h1{
+            color: greenyellow;
+        }
+        div>section>h1{
+            color: red;
+        }
+        div~h1{
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+    <p>2 extra names of Sibling selector Combinator, Child</p>
+    <div>
+        <h1>Sun in div</h1>
+        <h1>Moon in div</h1>
+        <section>
+            <h1>Komal in Sec tag</h1>
+            <h1>Ameya in sec tag</h1>
+        </section>
+        <h1>Red After Sec1</h1>
+        <h1>Blue After Sec2</h1>
+    </div>
+    <h1>after Div1</h1>   
+    <h1>After Div2</h1>
+</body>
+</html>
