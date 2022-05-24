@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Bismarck";
+    src: url("fonts/Bismarck.otf");
+}
+@font-face {
+    font-family: "Rush of the Geisha";
+    src: url("fonts/Rush\ of\ the\ Geisha.ttf");
+}
+
+/* body{
+    background-image: url(Kalbhairav_pinnacle_Scj.jpg);
+    background-repeat: no-repeat;
+    
+
+} */
+
+#head{
+    color: aqua;
+    font-family: "Bismarck";
+    font-size: 150px;
+}
+.para{
+    color: red;
+    font-family: "Rush of the Geisha";
+    font-size: 100px;
+}

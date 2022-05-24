@@ -1,0 +1,38 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 3px solid black;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    border-width: 5px;
+    border-color: black;
+    border-style: dotted;
+    margin-top: 10px;
+    /* background-color: red; */
+    
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    border-width: 5px;
+    border-color: rgb(59, 57, 57);
+    border-style: solid;
+    margin-top: 10px;
+    border-radius: 25%;
+    border-top-color: aqua;
+    border-bottom-width: 10px;
+}
+#box4{
+    height: 100px;
+    width: 100px;
+    border-width: 10px;
+    border-style: groove;
+    margin-top: 10px;
+    border-color: green;
+    background-color: yellowgreen;
+    box-shadow:4px 4px 6px orange;
+
+}

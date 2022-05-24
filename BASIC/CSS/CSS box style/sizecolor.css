@@ -1,0 +1,14 @@
+body{
+    font-size: 10px;
+}
+#p1{
+    color: royalblue;
+    font-size: 32px;
+}
+#p2{
+    color: rgba(255, 0, 0, 0.5);
+    font-size: 3rem;
+}
+h1{
+    color:  #8F00FF;
+}

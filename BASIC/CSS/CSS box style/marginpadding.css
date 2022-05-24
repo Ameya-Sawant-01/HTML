@@ -1,0 +1,12 @@
+#text1{
+    border: 5px solid black;
+    margin-left: 50px;
+    padding-left: 10px;
+    margin-bottom: 50px;
+}
+#text2{
+    border: 5px solid black;
+    padding: 10px;
+    margin-left: 100px;
+}
+
